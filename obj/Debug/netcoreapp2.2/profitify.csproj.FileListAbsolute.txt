@@ -1,0 +1,14 @@
+/home/neo/Documents/profitify/bin/Debug/netcoreapp2.2/profitify.deps.json
+/home/neo/Documents/profitify/bin/Debug/netcoreapp2.2/profitify.runtimeconfig.json
+/home/neo/Documents/profitify/bin/Debug/netcoreapp2.2/profitify.runtimeconfig.dev.json
+/home/neo/Documents/profitify/bin/Debug/netcoreapp2.2/profitify.dll
+/home/neo/Documents/profitify/bin/Debug/netcoreapp2.2/profitify.pdb
+/home/neo/Documents/profitify/obj/Debug/netcoreapp2.2/profitify.csprojAssemblyReference.cache
+/home/neo/Documents/profitify/obj/Debug/netcoreapp2.2/profitify.csproj.CoreCompileInputs.cache
+/home/neo/Documents/profitify/obj/Debug/netcoreapp2.2/profitify.RazorAssemblyInfo.cache
+/home/neo/Documents/profitify/obj/Debug/netcoreapp2.2/profitify.RazorAssemblyInfo.cs
+/home/neo/Documents/profitify/obj/Debug/netcoreapp2.2/profitify.AssemblyInfoInputs.cache
+/home/neo/Documents/profitify/obj/Debug/netcoreapp2.2/profitify.AssemblyInfo.cs
+/home/neo/Documents/profitify/obj/Debug/netcoreapp2.2/profitify.RazorTargetAssemblyInfo.cache
+/home/neo/Documents/profitify/obj/Debug/netcoreapp2.2/profitify.dll
+/home/neo/Documents/profitify/obj/Debug/netcoreapp2.2/profitify.pdb
