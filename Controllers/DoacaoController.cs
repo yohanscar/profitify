@@ -53,11 +53,11 @@ namespace profitify
 
             bool Sucess;    
 
-             Hall9001 objHall9001 = new Hall9001("https://profitfy.trade/",APPID,APIKey);
+             Hall9001 objHall9001 = new Hall9001("https://bootcamp.profitfy.trade/",APPID,APIKey);
                        //Retorna os pares negociados na Profitfy
             List<Markets> Markets = objHall9001.Markets(out Sucess);
 
-            return Markets[0].coinCodeFrom;
+            return "0x9a138cfa1ccff75d03140c51af9780d6233292b8";
             //return "1";
 
 
